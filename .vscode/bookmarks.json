@@ -1,0 +1,282 @@
+[
+	{
+		"path": "$ROOTPATH$\\package.json",
+		"bookmarks": [
+			{
+				"line": 7,
+				"column": 3,
+				"label": ""
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$\\sass\\base\\_base.scss",
+		"bookmarks": [
+			{
+				"line": 6,
+				"column": 23,
+				"label": ""
+			},
+			{
+				"line": 10,
+				"column": 20,
+				"label": ""
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$\\sass\\base\\_typography.scss",
+		"bookmarks": [
+			{
+				"line": 11,
+				"column": 30,
+				"label": ""
+			},
+			{
+				"line": 37,
+				"column": 1,
+				"label": "vai cortar o background até onde o texto acaba."
+			},
+			{
+				"line": 38,
+				"column": 1,
+				"label": ""
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$\\sass\\components\\_button.scss",
+		"bookmarks": [
+			{
+				"line": 26,
+				"column": 17,
+				"label": ""
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$\\sass\\layout\\_header.scss",
+		"bookmarks": [
+			{
+				"line": 4,
+				"column": 28,
+				"label": ""
+			},
+			{
+				"line": 5,
+				"column": 54,
+				"label": ""
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$\\sass\\layout\\_grid.scss",
+		"bookmarks": [
+			{
+				"line": 4,
+				"column": 24,
+				"label": ""
+			},
+			{
+				"line": 10,
+				"column": 21,
+				"label": ""
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$\\sass\\pages\\_home.scss",
+		"bookmarks": [
+			{
+				"line": 3,
+				"column": 20,
+				"label": ""
+			},
+			{
+				"line": 10,
+				"column": 26,
+				"label": "using this instead of clip-path"
+			},
+			{
+				"line": 13,
+				"column": 9,
+				"label": "seleciona todos os filhos direto do elemento."
+			},
+			{
+				"line": 36,
+				"column": 1,
+				"label": ""
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$\\sass\\components\\_composition.scss",
+		"bookmarks": [
+			{
+				"line": 10,
+				"column": 3,
+				"label": ""
+			},
+			{
+				"line": 28,
+				"column": 4,
+				"label": "poderia usar border, porém o outline me dá a opção de usar offset que deixa um espaço em branco como se fosse um padding"
+			},
+			{
+				"line": 36,
+				"column": 1,
+				"label": ""
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$\\sass\\components\\_card.scss",
+		"bookmarks": [
+			{
+				"line": 1,
+				"column": 22,
+				"label": "tem que ser usado no elemento pai, dá uma perspectiva de elemento 3d, como se tivesse saltando para fora da tela"
+			},
+			{
+				"line": 4,
+				"column": 16,
+				"label": "position absolute tirou o elemento do flow da página, o que deixou o height no 0, tenho que colocar o height do elemento pai igual dos cards"
+			},
+			{
+				"line": 12,
+				"column": 32,
+				"label": "como defini position absolute, o width ficou de acordo com o conteúdo, tenho que definir o width 100% pra pegar todo o container"
+			},
+			{
+				"line": 13,
+				"column": 32,
+				"label": "esconde o back side"
+			},
+			{
+				"line": 22,
+				"column": 33,
+				"label": "a frente do cartao já esta com rotateY 180deg quando dá hover então o elemento inicial do back é 180 deg"
+			},
+			{
+				"line": 45,
+				"column": 29,
+				"label": "o back side está com 180deg definido inicalmente, ou seja ele esta de costas, defino para 0 para virar ao contrário e ser o elemento principal"
+			},
+			{
+				"line": 54,
+				"column": 34,
+				"label": "define como um elemento deve ser misturado com seu background color"
+			},
+			{
+				"line": 91,
+				"column": 40,
+				"label": "o elemento foi dividido em duas linhas, o padding foi computado porém no elemento em geral, para aplicar em cada linha uso a propriedade"
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$\\sass\\components\\_story.scss",
+		"bookmarks": [
+			{
+				"line": 19,
+				"column": 42,
+				"label": "define como o conteudo vai ficar em volta. o elemento tem q ser float, width e height também tem que estar definidos"
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$\\index.html",
+		"bookmarks": [
+			{
+				"line": 190,
+				"column": 69,
+				"label": ""
+			},
+			{
+				"line": 204,
+				"column": 49,
+				"label": "imagem com legenda, semanticamente melhor usar figure"
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$\\sass\\components\\_bg-video.scss",
+		"bookmarks": [
+			{
+				"line": 12,
+				"column": 22,
+				"label": ""
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$\\sass\\components\\_form.scss",
+		"bookmarks": [
+			{
+				"line": 37,
+				"column": 19,
+				"label": ""
+			},
+			{
+				"line": 41,
+				"column": 21,
+				"label": ""
+			},
+			{
+				"line": 56,
+				"column": 39,
+				"label": ""
+			},
+			{
+				"line": 107,
+				"column": 55,
+				"label": ""
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$\\sass\\components\\_navigation.scss",
+		"bookmarks": [
+			{
+				"line": 72,
+				"column": 28,
+				"label": "aumenta a largura do background, 226% é uma largura muito alta, oq faz que só o transparent que seja mostrado, a cor branca tá escapando para o lado do elemento até sumir e ficar só transparent que é o estado inicial"
+			},
+			{
+				"line": 79,
+				"column": 32,
+				"label": "faz que o background ocupe 100% do elemento, que no caso é o link"
+			},
+			{
+				"line": 86,
+				"column": 37,
+				"label": "seleciona qualquer irmão de checkbox com a classe background"
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$\\sass\\components\\_popup.scss",
+		"bookmarks": [
+			{
+				"line": 12,
+				"column": 12,
+				"label": ""
+			},
+			{
+				"line": 75,
+				"column": 20,
+				"label": ""
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$\\sass\\abstracts\\_mixins.scss",
+		"bookmarks": [
+			{
+				"line": 9,
+				"column": 53,
+				"label": ""
+			}
+		]
+	}
+]
